@@ -32,7 +32,7 @@ namespace Lab3
                 if (UserChoice == "N" || UserChoice == "No"|| UserChoice == "no" || UserChoice == "n")
                 {
                     Continue = false;
-                    Console.WriteLine("Goodbye for now!");
+                    Console.WriteLine("See ya later, alligator!");
                 }
             }
         }
